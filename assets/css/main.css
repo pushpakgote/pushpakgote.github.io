@@ -2348,6 +2348,15 @@ figure.caption {
     display: block;
 }
 
+
+@media screen and (max-width: 428px) {
+	.skills{
+		text-align: center;
+	}
+}
+
+
+
 /* Project header ( also in project_header.js) */
 
 h2.projects{
