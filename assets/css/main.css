@@ -1668,7 +1668,7 @@ input, select, textarea {
 
 		}
 
-		body.is-preload #banner .logo {
+		/* body.is-preload #banner .logo {
 			-moz-transform: translateY(0.5em);
 			-webkit-transform: translateY(0.5em);
 			-ms-transform: translateY(0.5em);
@@ -1698,7 +1698,7 @@ input, select, textarea {
 			-webkit-filter: blur(2px);
 			-ms-filter: blur(2px);
 			filter: blur(2px);
-		}
+		} */
 
 /* Wrapper */
 
