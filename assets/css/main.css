@@ -1564,7 +1564,8 @@ input, select, textarea {
 			}
 
 		#banner h2 {
-			-moz-transition: opacity 0.5s ease, -moz-transform 0.5s ease, -moz-filter 0.25s ease;
+			/* Effect */
+			/* -moz-transition: opacity 0.5s ease, -moz-transform 0.5s ease, -moz-filter 0.25s ease;
 			-webkit-transition: opacity 0.5s ease, -webkit-transform 0.5s ease, -webkit-filter 0.25s ease;
 			-ms-transition: opacity 0.5s ease, -ms-transform 0.5s ease, -ms-filter 0.25s ease;
 			transition: opacity 0.5s ease, transform 0.5s ease, filter 0.25s ease;
@@ -1580,7 +1581,7 @@ input, select, textarea {
 			-webkit-filter: blur(0);
 			-ms-filter: blur(0);
 			filter: blur(0);
-			opacity: 1;
+			opacity: 1; */
 			border-bottom: solid 2px rgba(255, 255, 255, 0.125);
 			font-size: 2.25em;
 			margin-bottom: 0.8em;
@@ -1588,7 +1589,8 @@ input, select, textarea {
 		}
 
 		#banner p {
-			-moz-transition: opacity 0.5s ease, -moz-transform 0.5s ease, -moz-filter 0.25s ease;
+			/* Effect */
+			/* -moz-transition: opacity 0.5s ease, -moz-transform 0.5s ease, -moz-filter 0.25s ease;
 			-webkit-transition: opacity 0.5s ease, -webkit-transform 0.5s ease, -webkit-filter 0.25s ease;
 			-ms-transition: opacity 0.5s ease, -ms-transform 0.5s ease, -ms-filter 0.25s ease;
 			transition: opacity 0.5s ease, transform 0.5s ease, filter 0.25s ease;
@@ -1604,7 +1606,7 @@ input, select, textarea {
 			-webkit-filter: blur(0);
 			-ms-filter: blur(0);
 			filter: blur(0);
-			opacity: 1;
+			opacity: 1; */
 			font-family: Raleway, Helvetica, sans-serif;
 			font-size: 1em;
 			font-weight: 200;
